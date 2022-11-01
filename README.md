@@ -1,1 +1,1 @@
-스크립트 카드게임입니다
+﻿# SCRIPT_cardgame
